@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="mygroup" method="upgrade" >
+    <name>Import External Lib by Plugin - My Group</name>
+    <author>Jarod Chiang</author>
+    <authorEmail>chiangtor@gmail.com</authorEmail>
+    <authorUrl>www.budd31.com</authorUrl>
+    <creationDate>Wed Sep  5 11:31:35 CST 2012</creationDate>
+    <copyright>Jarod Chiang</copyright>
+    <license>GNU/GPL</license>
+    <version>0.0.2</version>
+    <description>A smaple</description>
+    <files>
+        <filename plugin="myfunc">myfunc.php</filename>
+	<folder>mylib</folder>
+    </files>
+    <params/>
+</install>
+
+
+
+
+
