@@ -14,7 +14,9 @@ Installation:
 Compress the src directory.
 
 For example: 
+  <pre><code>
   tar czf mygroup-0.0.1.tar.gz mygroup
+  </code></pre>
 
 </li>
 <li>
@@ -27,7 +29,7 @@ Login to the joomla 1.5 administator page.
 
 </li>
 <li>
-3. Enable the plugin on plugins list at Joomla administrator page.
+. Enable the plugin on plugins list at Joomla administrator page.
 </li>
 
 Usage Sample:
@@ -39,7 +41,9 @@ Usage Sample:
     // import MyClass from My Library
     myimport("mylib.myfunc");
     $myfunc = new myfunc();
+   </code></pre>
 
+   <pre><code>
     myimport("mylib.myclass");
     $myclass = new myclass();
     </code></pre>
